@@ -1,3 +1,5 @@
+
+
 '''
 variable:
     a named container that stores a value
@@ -8,9 +10,13 @@ variable:
     and optional intial value 
     providing flexibility by allowing values 
         to change during program execution
-    used in calculation, control flow, store temporary results, 
+    used in calculation, control flow, store temporary results,
+    
+    
 
     Varible should not have gaped or spaced
+    Variable enable programmers to write flexible & reuseable code by allowing
+    values to be manipulated, updated on various condition
     variable should not have semicolon, colon:
     Variable of data type, only can store one value at a time
     Variable of data set can store more than one value of data
