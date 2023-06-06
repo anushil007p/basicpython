@@ -49,3 +49,4 @@ subject = {"book name": "Science"}
 print(student)
 print(subject)
 print(sum)
+print("This is sum of two number:", sum)
